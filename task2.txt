@@ -1,0 +1,11 @@
+1000mm diagonal length
+230kv motor
+dummy block
+P24CF
+mn007
+Cap design
+matlab simulink
+autocode generation
+volvo xc40 xc46
+225kmph
+

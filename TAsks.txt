@@ -1,0 +1,23 @@
+HEMANT PANDEY
+B.TECH CHEMICAL ENGINEERING
+
+SKILLS:
+Machine learning
+Image processing(openCV and advanced)
+Python,C,C++
+Ehthical hacking
+Game Dev
+
+SOFTWARE USED:
+Fusion360/Solidworks
+Material Studio
+COMSOL MULTIPYSICS
+AVAGADRO
+
+PROJECTS:
+Ornithopter
+InterIIT project(UAV GUIDED UGV NAVIGATION).
+
+RESEARCH WORKS:
+METAMATERIALS
+
